@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750687130643",
+    "project_id": "projejoresidencia",
+    "storage_bucket": "projejoresidencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750687130643:android:8d737a380f179138ef5be6",
+        "android_client_info": {
+          "package_name": "com.example.residenciaprojeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpxHW6UGv74rnO6IlhEkkdqpsrpH6GoOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
