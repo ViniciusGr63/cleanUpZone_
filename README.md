@@ -4,7 +4,7 @@ A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Visão Geral
 
-Este é um aplicativo de denúncias desenvolvido em Dart com o framework Flutter, e utiliza o Firebase para autenticação e armazenamento de dados. Este guia fornece instruções passo a passo para implantar o aplicativo em um novo ambiente.
+Este é um aplicativo de coleta seletiva desenvolvido em Dart com o framework Flutter, e utiliza o Firebase para autenticação e armazenamento de dados. Este guia fornece instruções passo a passo para implantar o aplicativo em um novo ambiente.
 
 ## Requisitos Prévios
 
